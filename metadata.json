@@ -1,0 +1,6 @@
+{
+  "name": "Sky Hopper",
+  "description": "A polished 2D arcade flappy bird adventure with animated cute bird physics, dynamic parallax backgrounds, responsive controls, procedural Web Audio sound effects, and local high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
